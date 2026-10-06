@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the archived code release."
+title: "Analysis code: sequential syntax of EEG microstates in a Go/NoGo task"
+type: software
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Biodigital-Innovation-Lab/cognitive-microstates"
+identifiers:
+  - type: doi
+    value: "10.17632/6jcnrr9v58.2"
+    description: "Input data and supplementary tables (Mendeley Data, Version 2)"
+authors:
+  - given-names: "Omar"
+    family-names: "Cano-Garcia"
+  - given-names: "Keith"
+    family-names: "Guzmán-Díaz"
+  - given-names: "Sergio"
+    family-names: "Rivera-Tello"
+  - given-names: "Hugo"
+    family-names: "Vélez-Pérez"
+  - given-names: "J. Alejandro"
+    family-names: "Morales"
+  - given-names: "Julieta"
+    family-names: "Ramos-Loyo"
+  - given-names: "Rebeca"
+    family-names: "Romo-Vázquez"
+  - given-names: "Omar"
+    family-names: "Paredes"
+preferred-citation:
+  type: article
+  title: "Sequential Syntax of EEG Microstates Captures the Temporal Dynamics of Inhibitory Control"
+  journal: "iScience"
+  year: 2026
+  authors:
+    - given-names: "Omar"
+      family-names: "Cano-Garcia"
+    - given-names: "Keith"
+      family-names: "Guzmán-Díaz"
+    - given-names: "Sergio"
+      family-names: "Rivera-Tello"
+    - given-names: "Hugo"
+      family-names: "Vélez-Pérez"
+    - given-names: "J. Alejandro"
+      family-names: "Morales"
+    - given-names: "Julieta"
+      family-names: "Ramos-Loyo"
+    - given-names: "Rebeca"
+      family-names: "Romo-Vázquez"
+    - given-names: "Omar"
+      family-names: "Paredes"
