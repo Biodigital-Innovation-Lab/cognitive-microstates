@@ -1,12 +1,15 @@
 # Microstate sequence analysis (Go/NoGo EEG)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23177216.svg)](https://doi.org/10.5281/zenodo.23177216)
+
 Analysis code for a study of EEG microstate sequences (30 participants x 2
 conditions x 20 trials = 1,200 trials; 19 channels; 650 samples per trial at
 500 Hz; K = 5 microstates labelled A-E).
 
 Version 1.0.0. Licence: MIT (code, see `LICENSE`); the deposited data are
-CC BY 4.0. How to cite: `CITATION.cff`. Software DOI: Zenodo DOI: added after
-the first release (see the repository's Releases page and `CITATION.cff`).
+CC BY 4.0. How to cite: `CITATION.cff`. Software DOI: 10.5281/zenodo.23177217
+(version 1.0.0, the version used in the paper); all versions:
+10.5281/zenodo.23177216.
 Repository: https://github.com/Biodigital-Innovation-Lab/cognitive-microstates
 
 ## Purpose and status

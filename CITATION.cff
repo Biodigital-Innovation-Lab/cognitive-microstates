@@ -3,9 +3,13 @@ message: "If you use this code, please cite the paper and the archived code rele
 title: "Analysis code: sequential syntax of EEG microstates in a Go/NoGo task"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.23177217"
 license: MIT
 repository-code: "https://github.com/Biodigital-Innovation-Lab/cognitive-microstates"
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23177216"
+    description: "Zenodo concept DOI (all versions)"
   - type: doi
     value: "10.17632/6jcnrr9v58.2"
     description: "Input data and supplementary tables (Mendeley Data, Version 2)"
